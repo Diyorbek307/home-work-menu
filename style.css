@@ -1,0 +1,86 @@
+body {
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+display: flex;
+}
+.bod {
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.47);
+}
+.nuke {
+    margin: 0 auto;
+    margin-top: 300px;
+    width: 592px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 388px;
+    background-color: #F0F0F0;
+}
+.logo {
+    margin-top: 16px;
+    margin-right: 16px;
+    margin-left: 564px;
+    cursor: pointer;
+}
+.tex_one {
+    font-weight: 600;
+    font-size: 36px;
+}
+.btn_one {
+    width: 420px;
+    height: 48px;
+    background-color: #DADADA;
+    border: none;
+
+}
+.www {
+    margin-top: 9px;
+}
+.wwq {
+    background-color: blue;
+    color: white;
+    margin-top: 9px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.inf {
+    display: none;
+}
+.menu{
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    display: block;
+}
+.dad_menu {
+    display: none;
+}
+.act {
+    display: inline-block;
+}
+.burger {
+    margin: 0px 1px 0px auto;
+    width: 400px;
+    height: 100vh;
+    display: inline-block;
+    background-color: black;
+    color: white;
+}
+.burger_ww {
+    display: none;
+}
+.tex_burger {
+    padding-top: 150px;
+}
+.tex_ow {
+    margin-left: 40px;
+    font-size: 30px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
